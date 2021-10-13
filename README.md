@@ -1,5 +1,15 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
-**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
+# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps 
+**PROJECT: Decentralized Star Notary Service Project** - My submission on the StarNotary project.
+
+This allows you to create/own stars using the OpenZeppelin's ERC721(NFT) contract protocol.
+
+To build this, you will need:
+Truffle version: v5.4.10
+OpenZeppelin version: 2.3
+
+ERC721 Token name: Nnabueze
+ERC-721 Token symbol: Eze
+Token address on rinkeby: 0x01543395e6f1ee51360A8B58B209367A31e38827
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
