@@ -1,4 +1,4 @@
-import starNotaryArtifact from "../../build/contracts/StarNotary.json" assert {type: "json"};
+import starNotaryArtifact from "../../build/contracts/StarNotary.json";
 
 const App = {
   web3: null,
